@@ -2,7 +2,8 @@
 
 Library    Selenium2Library , BuiltIn
 
-Test Case
+Test Cases
+
 1.Open Browser https://tympanus.net/Development/PageLoadingEffects/
 
 2.Click text button "Lazy Stretch" --> and click back button
