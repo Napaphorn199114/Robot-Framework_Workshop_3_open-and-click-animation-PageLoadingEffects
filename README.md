@@ -13,3 +13,8 @@ Test Cases
 4.Click text button "Spill" --> and click back button
 
 5.Click text button "Frame it" --> and click back button
+
+
+Run Program with VS Code
+
+PageLoadingEffects.robot
